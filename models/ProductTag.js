@@ -19,6 +19,8 @@ ProductTag.init(
         key: 'id',
         unique: false
       },
+      onDelete: 'CASCADE',
+      onUpdate: 'CASCADE'
     },
     tag_id:{
       type: DataTypes.INTEGER,
@@ -27,6 +29,8 @@ ProductTag.init(
         key: 'id',
         unique: false,
       },
+      onDelete: 'CASCADE',
+      onUpdate: 'CASCADE'
     }
   },
   {

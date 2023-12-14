@@ -38,6 +38,7 @@ Product.init(
         unique: false,
       },
       onDelete: 'CASCADE',
+      onUpdate: 'CASCADE'
     }
   },
   {
