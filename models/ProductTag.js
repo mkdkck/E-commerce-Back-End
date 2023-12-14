@@ -18,15 +18,19 @@ ProductTag.init(
         model: 'product',
         key: 'id',
         unique: false
-      }
+      },
+      onDelete: 'CASCADE',
+      onUpdate: 'CASCADE'
     },
     tag_id:{
       type: DataTypes.INTEGER,
       references:{
         model: 'tag',
         key: 'id',
-        unique: false
-      }
+        unique: false,
+      },
+      onDelete: 'CASCADE',
+      onUpdate: 'CASCADE'
     }
   },
   {
