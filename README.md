@@ -31,10 +31,10 @@ Open the directory from VS Code.
 1. Use insomnia to process category data, get all data, get one data, create, update & delete:
 
 <img src="./assets/img/C1.png" alt="View all category data" width= 60%> <br/>
-<img src="./assets/img/C2.png" alt="View one category data" width= 60%> <br/>
-<img src="./assets/img/C3.png" alt="Create one category data" width= 60%> <br/>
-<img src="./assets/img/C4.png" alt="Update one category data" width= 60%> <br/>
-<img src="./assets/img/C5.png" alt="Delete one category data" width= 60%> <br/>
+<img src="./assets/img/c2.png" alt="View one category data" width= 60%> <br/>
+<img src="./assets/img/c3.png" alt="Create one category data" width= 60%> <br/>
+<img src="./assets/img/c4.png" alt="Update one category data" width= 60%> <br/>
+<img src="./assets/img/c5.png" alt="Delete one category data" width= 60%> <br/>
 
 2. Use insomnia to process tag data, get all data, get one data, create, update & delete:
 
